@@ -8,7 +8,7 @@ for(int i=0;i<=10;i++)
 sum=sum+i;
 }
 System.out.println("Sum ="+sum);
-(double)avg=(double) sum/10;
+avg=sum/10;
 
 System.out.println("Average ="+avg);
 }
